@@ -1,0 +1,19 @@
+.boton{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.btn-modern{
+    color: white;
+    background-color: green;
+    transition: 0.4s;
+}
+.btn-modern:hover{
+transform: translateY(-5px);
+box-shadow: 0 0 4px green;
+background-color: red;
+color: black;
+
+}

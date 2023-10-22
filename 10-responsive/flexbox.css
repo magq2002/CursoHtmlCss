@@ -1,0 +1,19 @@
+.contenedor{
+    background-color: yellow;
+    padding: 0.25rem;
+    display: flex;
+    gap: 0.5rem;
+    height: 5rem;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.item{
+    background-color: salmon;
+    padding: 0.25rem;
+    width: 10rem;
+}
+.item-2{
+    align-self: stretch;
+}

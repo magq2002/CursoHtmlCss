@@ -1,0 +1,34 @@
+/*Estilos para colores*/
+.colores {
+  color: red;
+}
+.color-hexadecimal {
+  color: #bce784;
+}
+.color-rgb {
+  color: rgb(100, 0, 200);
+}
+.color-rgba {
+  color: rgba(10, 10, 10, 0.5);
+}
+.fondo{
+    background-color: brown;
+    background-image: url("https://images.pexels.com/photos/6471304/pexels-photo-6471304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-position: center center;
+}
+.ancho{
+    background-color: #bce784;
+    width: 100px;
+}
+.alto{
+    background-color: aquamarine;
+    height: 200px;
+}
+.tarjeta{
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    border-width: 1px;
+    /*border-top: none;*/
+    padding: 10px 20px;
+    margin: 10px 20px;
+}
